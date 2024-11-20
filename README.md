@@ -15,9 +15,9 @@ Work with your team to ensure that your solution has interoperability with Azure
 - Control Plane 
 
 ## Well-Architected Framework Review
-Complete a [Well-Architected Framework Assessment](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/) or if building a SaaS Solution, complete [Well-Architected Framework for SaaS Assessment](https://learn.microsoft.com/en-us/azure/well-architected/saas/assessment).
+Complete a [Well-Architected Framework Assessment](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/) or if building a SaaS Solution, complete [Well-Architected Framework for SaaS Assessment](https://learn.microsoft.com/en-us/azure/well-architected/saas/assessment).  
 
-![Alt text](saaswaf.png)
+![SaaS WAF](saaswaf.png)
 
 ## Azure Advisor
 Provide the Azure Advisor Score output and screenshot from the Azure portal. More details at [Azure Advisor Instructions](https://learn.microsoft.com/en-us/azure/advisor/azure-advisor-score).
@@ -27,4 +27,7 @@ Provide a score output or screenshot from the CSPM from the last 30 days.  As an
 
 ## Architecture Diagram
 Below is a sample architecture diagram.  Architecture Diagram should focus on Azure components and interactions:
+
+![Sample Architecture](samplearchitecture.png)
+
 
